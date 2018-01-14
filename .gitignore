@@ -1,0 +1,6 @@
+scratch.R
+*.zip
+*.csv
+*.RData
+*.Rhistory
+*.txt
